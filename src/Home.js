@@ -45,7 +45,6 @@ function Home () {
             image="https://m.media-amazon.com/images/I/81Qqj2C2RzL._AC_UY218_.jpg"
             rating={2}
           />
-
           <Product
             id="15265789"
             title="Samsung el Core m3, 4GB RAM, 64GB eMMC, 13MP Camera"
@@ -62,7 +61,6 @@ function Home () {
             image="https://images-na.ssl-images-amazon.com/images/I/71sBGR6LZhL._SX679_.jpg"
             rating={5}
           />
-
         </div>
       </div>
     </div>
